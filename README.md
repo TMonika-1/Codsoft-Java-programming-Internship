@@ -10,7 +10,7 @@
 [Watch Demo](https://1drv.ms/v/c/b04ae5eb41b68149/IQBrRF1-WMaFQqqKcQ6ORejUAbvY2IhjYULDLBtQ_JVxNTE?e=dgtIQe)
 
 4. 📊 Student Grade Calculator  
-[Watch Demo]([)](https://1drv.ms/v/c/b04ae5eb41b68149/IQAoycsQprwPTYyayarmvVKXASPikRx-sTDofdT6_pcO9XU?e=J88Ctj)
+[Watch Demo](https://1drv.ms/v/c/b04ae5eb41b68149/IQAoycsQprwPTYyayarmvVKXASPikRx-sTDofdT6_pcO9XU?e=J88Ctj)
 
 5. 🎓 Student Management System  
 [Watch Demo](https://1drv.ms/v/c/b04ae5eb41b68149/IQAoycsQprwPTYyayarmvVKXASPikRx-sTDofdT6_pcO9XU?e=J88Ctj)
